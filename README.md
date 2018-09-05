@@ -15,8 +15,8 @@ I try to answer the following questions:
 
 1. What percentage of developers are data scientists?
 2. What are their working habits  relative to the rest of the developers?
-    - Are their remote working habits different
-    - Are their programming habits out of work dfferent 
+    - Are their remote working habits different?
+    - Are their programming habits out of work dfferent?
 3. What is their job satisfaction and how is it relative to the rest of the developers?
 
 
@@ -26,7 +26,7 @@ The dataset is too large to be included in this github repository and can be dow
 
 One can follow the analysis at:
 
-* [analysis.ipynb](https://jkarakas.github.io/Wrangle-OpenStreetMaps-Data-with-SQL/report_viz.html) - The jupyter notebook documenting the anaysis process using the CRISP-DSM process.
+* [analysis.ipynb](https://github.com/jkarakas/Are-Data-Scientists-happier-than-other-developers-/blob/master/analysis.ipynb) - The jupyter notebook documenting the anaysis process using the CRISP-DSM process.
 
 * [A medium article]() discussing the main findings.
 
