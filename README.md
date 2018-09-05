@@ -28,6 +28,6 @@ One can follow the analysis at:
 
 * [analysis.ipynb](https://github.com/jkarakas/Are-Data-Scientists-happier-than-other-developers-/blob/master/analysis.ipynb) - The jupyter notebook documenting the anaysis process using the CRISP-DSM process.
 
-* [A medium article]() discussing the main findings.
+* [A medium article](https://medium.com/@ioanniskbreier/are-data-scientists-happier-than-other-developers-f5a5ea2bebf9) discussing the main findings.
 
 
