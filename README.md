@@ -22,6 +22,8 @@ I try to answer the following questions:
 
 ## Usage
 
+The dataset is too large to be included in this github repository and can be downloaded from [here](https://www.kaggle.com/stackoverflow/so-survey-20171)
+
 One can follow the analysis at:
 
 * [analysis.ipynb](https://jkarakas.github.io/Wrangle-OpenStreetMaps-Data-with-SQL/report_viz.html) - The jupyter notebook documenting the anaysis process using the CRISP-DSM process.
